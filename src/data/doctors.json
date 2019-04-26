@@ -1,0 +1,141 @@
+[{
+  "id": 0,
+  "name": "Vernon Dunham",
+  "area": "Bellingham, WA",
+  "specialty": "dentist",
+  "score": "7",
+  "insurance": "medicare"
+}, {
+  "id": 1,
+  "name": "Dori Neal",
+  "area": "Bellingham, WA",
+  "specialty": "chiropractor",
+  "score": "7",
+  "insurance": "medicare"
+}, {
+  "id": 2,
+  "name": "Rico Muldoon",
+  "area": "Seattle, WA",
+  "specialty": "dentist",
+  "score": "9",
+  "insurance": "medicare"
+}, {
+  "id": 3,
+  "name": "Jason Neal",
+  "area": "Bellingham, WA",
+  "specialty": "chiropractor",
+  "score": "7",
+  "insurance": "all"
+}, {
+  "id": 4,
+  "name": "Rico Pettey",
+  "area": "Seattle, WA",
+  "specialty": "general",
+  "score": "10",
+  "insurance": "all"
+}, {
+  "id": 5,
+  "name": "Raymond Seabury",
+  "area": "Tacoma, WA",
+  "specialty": "general",
+  "score": "10",
+  "insurance": "all"
+}, {
+  "id": 6,
+  "name": "Dori Pettey",
+  "area": "Bellingham, WA",
+  "specialty": "general",
+  "score": "4",
+  "insurance": "tricare"
+}, {
+  "id": 7,
+  "name": "Vernon Neal",
+  "area": "Bellingham, WA",
+  "specialty": "dermatology",
+  "score": "7",
+  "insurance": "tricare"
+}, {
+  "id": 8,
+  "name": "Jason Neal",
+  "area": "Seattle, WA",
+  "specialty": "dermatology",
+  "score": "6",
+  "insurance": "tricare"
+}, {
+  "id": 9,
+  "name": "Vernon Muldoon",
+  "area": "Bellingham, WA",
+  "specialty": "dermatology",
+  "score": "10",
+  "insurance": "delta"
+}, {
+  "id": 10,
+  "name": "Vernon Seabury",
+  "area": "Seattle, WA",
+  "specialty": "surgery",
+  "score": "6",
+  "insurance": "delta"
+}, {
+  "id": 11,
+  "name": "Dori Neal",
+  "area": "Tacoma, WA",
+  "specialty": "general",
+  "score": "5",
+  "insurance": "delta"
+}, {
+  "id": 12,
+  "name": "Raymond Pettey",
+  "area": "Bellingham, WA",
+  "specialty": "surgery",
+  "score": "6",
+  "insurance": "blue cross"
+}, {
+  "id": 13,
+  "name": "Rico Muldoon",
+  "area": "Tacoma, WA",
+  "specialty": "dentist",
+  "score": "5",
+  "insurance": "blue cross"
+}, {
+  "id": 14,
+  "name": "Vernon Seabury",
+  "area": "Seattle, WA",
+  "specialty": "chiropractor",
+  "score": "5",
+  "insurance": "blue cross"
+}, {
+  "id": 15,
+  "name": "Rico Pettey",
+  "area": "Seattle, WA",
+  "specialty": "surgery",
+  "score": "2",
+  "insurance": "blue cross"
+}, {
+  "id": 16,
+  "name": "Jason Dunham",
+  "area": "Bellingham, WA",
+  "specialty": "surgery",
+  "score": "6",
+  "insurance": "aetna"
+}, {
+  "id": 17,
+  "name": "Vernon Neal",
+  "area": "Seattle, WA",
+  "specialty": "dentist",
+  "score": "9",
+  "insurance": "aetna"
+}, {
+  "id": 18,
+  "name": "Jason Pettey",
+  "area": "Seattle, WA",
+  "specialty": "chiropractor",
+  "score": "9",
+  "insurance": "aetna"
+}, {
+  "id": 19,
+  "name": "Vernon Dunham",
+  "area": "Bellingham, WA",
+  "specialty": "dentist",
+  "score": "7",
+  "insurance": "aetna"
+}]
