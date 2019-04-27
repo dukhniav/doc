@@ -26,19 +26,20 @@
   "specialty": "chiropractor",
   "score": "7",
   "insurance": "all"
-}, {
+}, 
+{
   "id": 4,
   "name": "Rico Pettey",
   "area": "Seattle, WA",
   "specialty": "general",
-  "score": "10",
+  "score": "9",
   "insurance": "all"
 }, {
   "id": 5,
   "name": "Raymond Seabury",
   "area": "Tacoma, WA",
   "specialty": "general",
-  "score": "10",
+  "score": 9,
   "insurance": "all"
 }, {
   "id": 6,
@@ -66,7 +67,7 @@
   "name": "Vernon Muldoon",
   "area": "Bellingham, WA",
   "specialty": "dermatology",
-  "score": "10",
+  "score": 9,
   "insurance": "delta"
 }, {
   "id": 10,
@@ -138,4 +139,12 @@
   "specialty": "dentist",
   "score": "7",
   "insurance": "aetna"
+},
+{
+  "id": 20,
+  "name": "Jason Neal",
+  "area": "Olympia, WA",
+  "specialty": "chiropractor",
+  "score": "4",
+  "insurance": "cash"
 }]
